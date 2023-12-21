@@ -1,1 +1,4 @@
-# 2023_use_php_and_ffmpeg_remove_silence_video
+使用php和ffmpeg取有声音的视频
+
+需要ffmpeg  ffprobe 和 php
+
